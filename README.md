@@ -1,6 +1,6 @@
 # Probability_Distributions Package
 
-This package contains two tupes of probability distributions
+This package contains two types of probability distributions
 1. Gaussian Distribution
 	In probability theory, a normal (or Gaussian or Gauss or Laplace–Gauss) distribution is a type of continuous probability distribution for a real-valued random variable. The general form of its probability density function is
 
